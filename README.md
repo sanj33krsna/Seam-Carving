@@ -21,8 +21,8 @@ Input image on the right & Output on the left
 
 ### Vertical Seam Removal
 
-<img src="https://github.com/sanj33krsna/Seam-Carving/blob/main/Demo/Dog.jpg" width="525"> <img src="https://github.com/sanj33krsna/Seam-Carving/blob/main/Demo/seamRemoved_dig.jpg" width="312">
+<img src="https://github.com/sanj33krsna/Seam-Carving/blob/main/Demo/Dog.jpg" width="450"> <img src="https://github.com/sanj33krsna/Seam-Carving/blob/main/Demo/seamRemoved_dig.jpg" width="312">
 
 Sobel image on the right & Seam Marked on the left
 
-<img src="https://github.com/sanj33krsna/Seam-Carving/blob/main/Demo/seamMarked_dog.jpg" width="425"> <img src="https://github.com/sanj33krsna/Seam-Carving/blob/main/Demo/sobelImage_dog.jpg" width="425">
+<img src="https://github.com/sanj33krsna/Seam-Carving/blob/main/Demo/seamMarked_dog.jpg" width="300"> <img src="https://github.com/sanj33krsna/Seam-Carving/blob/main/Demo/sobelImage_dog.jpg" width="300">
